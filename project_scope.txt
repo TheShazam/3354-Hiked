@@ -1,0 +1,32 @@
+1.Hiked – Book Tours Web-Application
+  1.1 Homepage
+    1.1.1 Top bar has a logo on the left, a navigation button on the right that opens a directory with flashy animation to show options for an About page,
+      Benefit page, Popular tours page, Stories, and Book Now and of course exit button
+    1.1.2 Title in the middle of the homepage
+    1.1.3 Discover our tours button that slides down on the one-page website to the some tours
+    1.1.4 A learn more section telling us about the mission with this website
+    1.1.5 Give 4 reasons why traveling is a good thing and the benefits of booking with this site
+    1.1.6 Easy, medium, and hard tour with book now button
+    1.1.7 Discover all tours button
+    1.1.8 Highlighted reviews
+    1.1.9 Start booking now application, full name and email address as well as how big your tour group is, with a button to proceed
+    1.1.10 Restate navigation options
+  1.2 Menu – All Tours
+    1.2.1 Top bar has different hyperlinks including an All Tours button, My bookings, the users name to go to the users profile, with a fully-functional search tours
+      bar only if user is logged in, otherwise it will have log in and sign up
+    1.2.2 Presents all the different tours you can book
+    1.2.3 Title the tour with a picture, a difficulty for each trail, how long it is, and a description
+    1.2.4 Each tour has its own location, when the tour is set to be available for booking, the number of stops, and how many people can go on the tour
+    1.2.5 Show the price and the rating of the specific tour
+    1.2.6 Details button that displays more info about the tour (another page)
+  1.3 Profile
+    1.3.1 See payment info, credit card payments with Stripe
+    1.3.2 Delete from cart and add tours to cart
+    1.3.3 Verify payment
+    1.3.4 Your name and contact information
+  1.4 Reviews
+    1.4.1 Add a new review to a tour
+    1.4.2 Rate how it was with stars
+    1.4.3 Display your account information or not
+  1.5 Other
+     1.5.1 Zoom in/out and scroll whenever necessary
